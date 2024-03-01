@@ -8,7 +8,7 @@ An enthusiastic developer seeking collaborative opportunities to tackle challeng
 ## Stats
 
 ![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajasgh18&theme=dark&show_icons=true&card_width=400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajasgh18&theme=dark&card_width=436)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajasgh18&theme=dark&card_width=400)
 
 ## Let's connect
 
