@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Raja Singh
 🚀 Launching projects higher than the Empire State Building 🏙️
+<br>
 An enthusiastic developer seeking collaborative opportunities to tackle challenges, share knowledge, and contribute to meaningful projects.
 
 <img src="https://komarev.com/ghpvc/?username=rajasgh18&label=Profile%20views&color=0e75b6&style=flat" alt="rajasgh18" />
